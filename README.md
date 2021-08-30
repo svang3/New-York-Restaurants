@@ -1,4 +1,4 @@
-# New-York-Restaurants
+# Codecademy -- New-York-Restaurants
 
 /* reading into the data */
 select * from nomnom;
